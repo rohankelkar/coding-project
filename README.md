@@ -18,4 +18,7 @@ HTML5, CSS3, Bootstrap, Javascript, JQuery, JSON
 
 Process to run the code:
 
-Download the 
+1. Download the "weatherapp" folder from the "coding-project" repository.
+2. Open the "index.html" file using any web browser present inside the "weatherapp" folder.
+3. You can start using the app on your local machine. 
+
